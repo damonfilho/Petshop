@@ -6,7 +6,7 @@ const Pagina404 = () => {
   return (
     <main className="container flex flex--centro flex--coluna">
       <img className="doquito-imagem" src={imagem} alt="ilustração doquito" />
-      <p className="naoencontrado-texto">quer o que aqui arrombado au essa pagina não existe  </p>
+      <p className="naoencontrado-texto">essa pagina não existe  </p>
     </main>
   );
 };
